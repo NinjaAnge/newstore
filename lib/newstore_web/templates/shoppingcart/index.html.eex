@@ -1,82 +1,85 @@
 <br><br>
-<div class="sq-flex sq-justify-center">
-  <h1>Shoppingcart</h1>
-</div>
-<br><br>
-<section class="sq-flex sq-justify-center">
-  <div class=" sq-width-60p sq-flex">
-    <table class="sq-border-collapse sq-width-100p">
-      <tr>
-        <th class="sq-b-border">Image</th>
-        <th class="sq-b-border">Name</th>
-        <th class="sq-b-border">Amount</th>
-        <th class="sq-b-border">price</th>
-        <th class="sq-b-border">Total Price</th>
-        <th class="sq-b-border"></th>
-        <th class="sq-b-border">Delete</th>
-      </tr>
-      
-      <tr>
-        <td class="sq-b-border sq-l-border"><div class="sq-justify-center sq-flex"><img src="/images/userr.png" alt="" height="50" width="50"></div></td>
-        <td class="sq-b-border"><div class="sq-justify-center sq-flex">Red Cup</div></td>
-        <td class="sq-b-border"><div class="sq-justify-center sq-flex">2</div></td>
-        <td class="sq-b-border"><div class="sq-justify-center sq-flex">15 Nok</div></td>
-        <td class="sq-b-border"><div class="sq-justify-center sq-flex"><!--<input class="sq-width-30em" onblur="findTotal()" type="text" name="sq-qty" id="sq-qty1"/>-->30 Nok</div></td>
-        <td class="sq-b-border"></td>
-        <td class="sq-b-border sq-r-border">
-          <div class="sq-justify-center sq-flex">
-            <button>Delete</button>
-          </div>
-        </td>
-      </tr>
-      <tr>
-      
-        <td class="sq-b-border sq-l-border"><div class="sq-justify-center sq-flex"><img src="/images/userr.png" alt="" height="50" width="50"></div></td>
-        <td class="sq-b-border"><div class="sq-justify-center sq-flex">Blue Cup</div></td>
-        <td class="sq-b-border"><div class="sq-justify-center sq-flex">1</div></td>
-        <td class="sq-b-border"><div class="sq-justify-center sq-flex">17 Nok</div></td>
-        <td class="sq-b-border"><div class="sq-justify-center sq-flex"><!--<input class="sq-width-30em" onblur="findTotal()" type="text" name="sq-qty" id="sq-qty1"/>-->17 Nok</div></td>
-        <td class="sq-b-border"></td>
-        <td class="sq-b-border sq-r-border">        
-          <div class="sq-justify-center sq-flex">
-            <button>Delete</button>
-          </div>
-        </tr>
-        <div class="sq-flex sq-justify-center">
-        <tr>
-          <td class="sq-b-border sq-l-border"><div class="sq-justify-center sq-flex"><img src="/images/userr.png" alt="" height="50" width="50"></div></td>
-          <td class="sq-b-border"><div class="sq-justify-center sq-flex">Black Cup</div></td>
-          <td class="sq-b-border"><div class="sq-justify-center sq-flex">17</div></td>
-          <td class="sq-b-border"><div class="sq-justify-center sq-flex">100 Nok</div></td>
-           <td class="sq-b-border"><div class="sq-justify-center sq-flex"><!--<input class="sq-width-30em" onblur="findTotal()" type="text" name="sq-qty" id="sq-qty1"/>-->1700 Nok</div></td>
-          <td class="sq-b-border"></td>
-          <td class="sq-b-border sq-justify-center sq-r-border">
-            <div class="sq-justify-center sq-flex">
-              <button>Delete</button>
-            </div>
-          </td>
+<div class=""style="width: 100%; background-color:;">
+  <div class="">
+    <div class="sq-flex sq-justify-center ">
+      <h1>Shoppingcart</h1>
+    </div>
+    <br><br>
+    <div class="sq-flex sq-justify-center">
+      <div class="sq-width-60p sq-flex">
+        <table class="sq-border-collapse sq-width-100p">
+          <tr>
+            <th class="sq-b-border">Image</th>
+            <th class="sq-b-border">Name</th>
+            <th class="sq-b-border">Amount</th>
+            <th class="sq-b-border">price</th>
+            <th class="sq-b-border">Total Price</th>
+            <th class="sq-b-border"></th>
+            <th class="sq-b-border">Delete</th>
           </tr>
           <tr>
-            <td><br><br></td>
-          </tr>
-          <tr>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td>
-              <div class="sq-flex sq-justify-end">
-                <button>Checkout</button>
-              </div>    
+            <td class="sq-b-border sq-l-border"><div class="sq-justify-center sq-flex"><img src="/images/userr.png" alt="" height="50" width="50"></div></td>
+            <td class="sq-b-border"><div class="sq-justify-center sq-flex">Red Cup</div></td>
+            <td class="sq-b-border"><div class="sq-justify-center sq-flex">2</div></td>
+            <td class="sq-b-border"><div class="sq-justify-center sq-flex">15 Nok</div></td>
+            <td class="sq-b-border"><div class="sq-justify-center sq-flex"><!--<input class="sq-width-30em" onblur="findTotal()" type="text" name="sq-qty" id="sq-qty1"/>-->30 Nok</div></td>
+            <td class="sq-b-border"></td>
+            <td class="sq-b-border sq-r-border">
+              <div class="sq-justify-center sq-flex">
+                <button>Delete</button>
+              </div>
             </td>
-            <td class="sq-border-1"><!--<input class="sq-width-30em" type="text" id="sq-total"/>-->1747 Nok</td>
           </tr>
           <tr>
+            <td class="sq-b-border sq-l-border"><div class="sq-justify-center sq-flex"><img src="/images/userr.png" alt="" height="50" width="50"></div></td>
+            <td class="sq-b-border"><div class="sq-justify-center sq-flex">Blue Cup</div></td>
+            <td class="sq-b-border"><div class="sq-justify-center sq-flex">1</div></td>
+            <td class="sq-b-border"><div class="sq-justify-center sq-flex">17 Nok</div></td>
+            <td class="sq-b-border"><div class="sq-justify-center sq-flex"><!--<input class="sq-width-30em" onblur="findTotal()" type="text" name="sq-qty" id="sq-qty1"/>-->17 Nok</div></td>
+            <td class="sq-b-border"></td>
+            <td class="sq-b-border sq-r-border">        
+              <div class="sq-justify-center sq-flex">
+                <button>Delete</button>
+              </div>
+            </td>
+          </tr>
+          <div class="sq-flex sq-justify-center">
+          <tr>
+            <td class="sq-b-border sq-l-border"><div class="sq-justify-center sq-flex"><img src="/images/userr.png" alt="" height="50" width="50"></div></td>
+            <td class="sq-b-border"><div class="sq-justify-center sq-flex">Black Cup</div></td>
+            <td class="sq-b-border"><div class="sq-justify-center sq-flex">17</div></td>
+            <td class="sq-b-border"><div class="sq-justify-center sq-flex">100 Nok</div></td>
+            <td class="sq-b-border"><div class="sq-justify-center sq-flex"><!--<input class="sq-width-30em" onblur="findTotal()" type="text" name="sq-qty" id="sq-qty1"/>-->1700 Nok</div></td>
+            <td class="sq-b-border"></td>
+            <td class="sq-b-border sq-justify-center sq-r-border">
+              <div class="sq-justify-center sq-flex">
+                <button>Delete</button>
+              </div>
+            </td>
           </tr>
         </table>
+        </div>
+        <br><br>
+        <div>
+        
+        </div>
       </div>
-    </section>
+      <div class="sq-air-t-20 sq-flex sq-justify-center sq-air-" style="width:100%">
+      <div class="sq-flex">
+          <table>
+            <tr>
+               <td class=""style="text-align:center;"><!--<input class="sq-width-30em" type="text" id="sq-total"/>--><strong>1747 Nok</strong></td>
+               <td>
+                <div class="sq-flex sq-justify-end sq-air-r-20">
+                  <button>Checkout</button>
+                </div>    
+              </td>
+            </tr>
+          </table>
+        </div>
+    </div>
+  </div>
+</div>
     <%# <div class="sq-flex sq-justify-center sq-air-t-10 sq-air-r-custom">
     <button>Checkout</button>
   </div> %>
