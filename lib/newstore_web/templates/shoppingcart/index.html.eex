@@ -4,7 +4,7 @@
 </div>
 <br><br>
 <section class="sq-flex sq-justify-center">
-  <div class="sq-border-1 sq-width-60p sq-flex">
+  <div class=" sq-width-60p sq-flex">
     <table class="sq-border-collapse sq-width-100p">
       <tr>
         <th class="sq-b-border">Image</th>
@@ -15,17 +15,15 @@
         <th class="sq-b-border"></th>
         <th class="sq-b-border">Delete</th>
       </tr>
+      
       <tr>
-        <td><br></td>
-      </tr>
-      <tr>
-        <td class="sq-b-border"><div class="sq-justify-center sq-flex"><img src="/images/userr.png" alt="" height="50" width="50"></div></td>
+        <td class="sq-b-border sq-l-border"><div class="sq-justify-center sq-flex"><img src="/images/userr.png" alt="" height="50" width="50"></div></td>
         <td class="sq-b-border"><div class="sq-justify-center sq-flex">Red Cup</div></td>
         <td class="sq-b-border"><div class="sq-justify-center sq-flex">2</div></td>
         <td class="sq-b-border"><div class="sq-justify-center sq-flex">15 Nok</div></td>
         <td class="sq-b-border"><div class="sq-justify-center sq-flex"><!--<input class="sq-width-30em" onblur="findTotal()" type="text" name="sq-qty" id="sq-qty1"/>-->30 Nok</div></td>
         <td class="sq-b-border"></td>
-        <td class="sq-b-border">
+        <td class="sq-b-border sq-r-border">
           <div class="sq-justify-center sq-flex">
             <button>Delete</button>
           </div>
@@ -33,32 +31,31 @@
       </tr>
       <tr>
       
-        <td class="sq-b-border"><div class="sq-justify-center sq-flex"><img src="/images/userr.png" alt="" height="50" width="50"></div></td>
+        <td class="sq-b-border sq-l-border"><div class="sq-justify-center sq-flex"><img src="/images/userr.png" alt="" height="50" width="50"></div></td>
         <td class="sq-b-border"><div class="sq-justify-center sq-flex">Blue Cup</div></td>
         <td class="sq-b-border"><div class="sq-justify-center sq-flex">1</div></td>
         <td class="sq-b-border"><div class="sq-justify-center sq-flex">17 Nok</div></td>
         <td class="sq-b-border"><div class="sq-justify-center sq-flex"><!--<input class="sq-width-30em" onblur="findTotal()" type="text" name="sq-qty" id="sq-qty1"/>-->17 Nok</div></td>
         <td class="sq-b-border"></td>
-        <td class="sq-b-border">        
+        <td class="sq-b-border sq-r-border">        
           <div class="sq-justify-center sq-flex">
             <button>Delete</button>
           </div>
         </tr>
         <div class="sq-flex sq-justify-center">
         <tr>
-          <td class="sq-b-border"><div class="sq-justify-center sq-flex"><img src="/images/userr.png" alt="" height="50" width="50"></div></td>
+          <td class="sq-b-border sq-l-border"><div class="sq-justify-center sq-flex"><img src="/images/userr.png" alt="" height="50" width="50"></div></td>
           <td class="sq-b-border"><div class="sq-justify-center sq-flex">Black Cup</div></td>
           <td class="sq-b-border"><div class="sq-justify-center sq-flex">17</div></td>
           <td class="sq-b-border"><div class="sq-justify-center sq-flex">100 Nok</div></td>
            <td class="sq-b-border"><div class="sq-justify-center sq-flex"><!--<input class="sq-width-30em" onblur="findTotal()" type="text" name="sq-qty" id="sq-qty1"/>-->1700 Nok</div></td>
           <td class="sq-b-border"></td>
-          <td class="sq-b-border sq-justify-center">
+          <td class="sq-b-border sq-justify-center sq-r-border">
             <div class="sq-justify-center sq-flex">
               <button>Delete</button>
             </div>
           </td>
           </tr>
-          </div>
           <tr>
             <td><br><br></td>
           </tr>
