@@ -1,15 +1,15 @@
 <br><br>
-<div class=""style="width: 100%; background-color:;">
+<div class="">
   <div class="">
-    <div class="sq-flex sq-justify-center ">
+    <div class="sq-flex sq-justify-center">
       <h1>Shoppingcart</h1>
     </div>
     <br><br>
     <div class="sq-flex sq-justify-center">
-      <div class="sq-width-60p sq-flex">
-        <table class="sq-border-collapse sq-width-100p">
+      <div class="sq-width-90p sq-flex">
+        <table class=" sq-border-collapse sq-width-100p">
           <tr>
-            <th class="sq-b-border">Image</th>
+            <th class="sq-b-border ">Image</th>
             <th class="sq-b-border">Name</th>
             <th class="sq-b-border">Amount</th>
             <th class="sq-b-border">price</th>
